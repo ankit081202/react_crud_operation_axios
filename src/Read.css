@@ -1,0 +1,21 @@
+.data_main {
+    width: 100%;
+    background-color: rgb(215, 224, 224);
+    border: 2px solid;
+    padding: 5px;
+}
+.data{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.upd{
+    background-color: green;
+    color: aliceblue;
+}
+
+.del{
+    background-color: red;
+    color: aliceblue;
+}
